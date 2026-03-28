@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    background-image: url(image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0%;
+}
+
+#head {
+    margin: 20px;
+    padding: 10px;
+    font: bolder;
+    font-weight: 900;
+    color: #ffd700;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 30px;
+    padding: 10px;
+
+}
+
+th,
+td {
+    border: 2px solid #ffd700;
+    padding: 20px;
+    text-align: center;
+
+
+}
+
+th {
+    background-color: #333;
+}
+
+.in {
+    margin: 5px 10px 15px 50px;
+}
+
+#IN {
+    margin-bottom: 10px;
+    color: #ffd700;
+}
+
+li {
+    margin-top: 10px;
+    color: #ffffff;
+}
+
+.ME {
+    margin: 5px 10px 15px 50px;
+}
+
+#method {
+    margin-bottom: 10px;
+    color: #ffd700;
+}
