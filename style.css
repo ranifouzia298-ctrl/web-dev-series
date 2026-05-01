@@ -24,9 +24,9 @@ body {
 
 table {
     border-collapse: collapse;
-    margin: 30px;
+    margin: 20px;
     padding: 10px;
-
+    margin-left: 50px ;
 }
 
 th,
